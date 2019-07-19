@@ -1,4 +1,5 @@
-{
+[
+  {
     "id": "test",
     "description": "Test plugin",
     "releases": [
@@ -8,4 +9,16 @@
         "url": "test/0.0.1/test.snapshot.jar"
       }
     ]
+  },
+  {
+    "id": "hello-plugin",
+    "description": "Hello plugin",
+    "releases": [
+      {
+        "version": "0.0.1",
+        "date": "Jun 25, 2014 9:58:35 PM",
+        "url": "test/0.0.1/test.snapshot.jar"
+      }
+    ]
   }
+]
